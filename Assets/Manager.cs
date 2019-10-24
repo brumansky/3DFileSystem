@@ -23,15 +23,15 @@ public class Manager : MonoBehaviour
             GameObject go = Instantiate(file, newPos, Direction);
         }
         */
-        instantiateInCircle(file, new Vector3(0, 0, 0), 10);
+        instantiateInCircle(file, new Vector3(0, 0, 0), 20);
     }
 
     public void instantiateInCircle(GameObject obj, Vector3 location, int howMany)
     {
         float radius = howMany > 4 ? howMany / 4 : 2;
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < howMany; i++)
         {
-            float angle = i * Mathf.PI * 2f / 8;
+            float angle = i * Mathf.PI * 2f / howMany;
             Vector3 newPos = new Vector3(0, Mathf.Cos(angle) * radius, Mathf.Sin(angle) * radius);
             Quaternion Direction = Quaternion.FromToRotation(Vector3.up, newPos);
             Vector3 DirectEuler = Direction.eulerAngles;

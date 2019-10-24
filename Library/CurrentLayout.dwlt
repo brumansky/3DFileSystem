@@ -321,7 +321,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -414,13 +414,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.03793625, y: -0.7319823, z: 0.040894207, w: -0.67903703}
+    m_Target: {x: -0.049415216, y: -0.46318737, z: 0.025877228, w: -0.8845036}
     speed: 2
-    m_Value: {x: -0.037936237, y: -0.73198205, z: 0.04089419, w: -0.6790368}
+    m_Value: {x: -0.049415205, y: -0.46318725, z: 0.025877222, w: -0.88450336}
   m_Size:
-    m_Target: 11.74232
+    m_Target: 19.399448
     speed: 2
-    m_Value: 11.74232
+    m_Value: 19.399448
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -461,8 +461,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1cf8ffff
-      m_LastClickedID: 0
+      m_SelectedIDs: 50f0ffff
+      m_LastClickedID: -4016
       m_ExpandedIDs: d6fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
