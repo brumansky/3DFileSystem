@@ -26,8 +26,11 @@ public class Manager : MonoBehaviour
         }
         */
         instantiateInCircle(file, new Vector3(0, 0, 0), 10);
+        instantiateInCircle(file, new Vector3(0, 0, 0), 20);
+        instantiateInCircle(file, new Vector3(0, 0, 0), 30);
+        instantiateInCircle(file, new Vector3(0, 0, 0), 40);
         GameObject toReplace = files[0];
-        
+
         files[0] = Instantiate(folder, toReplace.transform.position, toReplace.transform.rotation);
         //files[0].transform.Rotate(0, 0, 90);
         Destroy(toReplace);
@@ -41,7 +44,7 @@ public class Manager : MonoBehaviour
         for (int i = 0; i < howMany; i++)
         {
             float angle = i * Mathf.PI * 2f / howMany;
-            Vector3 newPos = new Vector3(0, Mathf.Cos(angle) * radius, Mathf.Sin(angle) * radius);
+            Vector3 newPos = new Vector3(0 + location.x, Mathf.Cos(angle) * radius, Mathf.Sin(angle) * radius);
             Quaternion Direction = Quaternion.FromToRotation(Vector3.up, newPos);
             Vector3 DirectEuler = Direction.eulerAngles;
             DirectEuler.x += 90;
@@ -60,13 +63,13 @@ public class Manager : MonoBehaviour
         {
             foreach(GameObject fi in files)
             {
-                fi.transform.RotateAround(Vector2.zero, Vector3.right, 200 * Time.deltaTime);
+                fi.transform.RotateAround(Vector2.zero, Vector3.right, 50 * Time.deltaTime);
             }
         } else if(Input.GetAxis("Mouse ScrollWheel") < 0f)
         {
             foreach(GameObject fi in files)
             {
-                fi.transform.RotateAround(Vector2.zero, Vector3.right, -200 * Time.deltaTime);
+                fi.transform.RotateAround(Vector2.zero, Vector3.right, -25 * Time.deltaTime);
             }
         } else if (Input.GetMouseButtonDown(0))
         {
