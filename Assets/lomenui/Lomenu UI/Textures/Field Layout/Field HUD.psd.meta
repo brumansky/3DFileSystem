@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: 76bdad1258c27a64fa6bff9c813759cb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Glock 43 Normal
+    21300002: Glock 43 Outline
+    21300004: HK MP5 SD Normal
+    21300006: HK MP5 SD Outline
+    21300008: AKM Normal
+    21300010: AKM Outline
+    21300012: M4A1 Normal
+    21300014: M4A1 Outline
+    21300016: M4A4 Normal
+    21300018: M4A4 Outline
+    21300020: Scar-H Normal
+    21300022: Scar-H Outline
+    21300024: Barret .50 Cal Normal
+    21300026: Barret .50 Cal Outline
+    21300028: Holo Sight Normal
+    21300030: Holo Sight Outline
+    21300032: AWM Normal
+    21300034: AWM Outline
+    21300036: Dragunov SVD Normal
+    21300038: Dragunov SVD Outline
+    21300040: AS50 Normal
+    21300042: AS50 Outline
+    21300044: Bullet Normal
+    21300046: Bullet Outline
+    21300048: Grenade Normal
+    21300050: Grenade Outline
+    21300052: Health Normal
+    21300054: Armor Normal
+    21300056: Armor Outline
+    21300058: M1A2 Abrams Normal
+    21300060: M1A2 Abrams Outline
+    21300062: Engineer Normal
+    21300064: Engineer Outline
+    21300066: AH1Z Viper Normal
+    21300068: AH1Z Viper Outline
+    21300070: F-35 Normal
+    21300072: F-35 Outline
+    21300074: Boat Normal
+    21300076: Boat Outline
+    21300078: Silencer Normal
+    21300080: Silencer Outline
+    21300082: Heavy Barrel Normal
+    21300084: Heavy Barrel Outline
+    21300086: C4 Normal
+    21300088: C4 Outline
+    21300090: Ammo Box Normal
+    21300092: Ammo Box Outline
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glock 43 Normal
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1864
+        width: 256
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52599cf47783c114d992b1ae45f7bc3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glock 43 Outline
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1662
+        width: 256
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd0fd972800a042a7a64ab262a82a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK MP5 SD Normal
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1869
+        width: 512
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49d0776d141234f9e3caa24bed37df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK MP5 SD Outline
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1672
+        width: 512
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d7441e678feb439acac775838abee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKM Normal
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1886
+        width: 512
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e7b8b4b89f1e64cbb285e2abb35ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKM Outline
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1706
+        width: 512
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af2f102cedc1541be317bf5604676a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M4A1 Normal
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1533
+        width: 512
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b55d4dc234aa4498ad4b1152fd17a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M4A1 Outline
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1360
+        width: 512
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd2eda412e8d564d9b864367c35365c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M4A4 Normal
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1169
+        width: 512
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baab97a10d5fede4987ad20e9707ffa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M4A4 Outline
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 978
+        width: 512
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9920676994eae049b115aca64c4b7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scar-H Normal
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 816
+        width: 512
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bed2f8886c92a4e98421a8604cb04d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scar-H Outline
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 654
+        width: 512
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50137b8f33e73e64bb197ad62b3f8596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barret .50 Cal Normal
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1930
+        width: 512
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88738585710bc4d9bfe8044a734d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barret .50 Cal Outline
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1794
+        width: 512
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ec4e0302bfa745b66b5fbd7b2f00a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holo Sight Normal
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1948
+        width: 225
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2825dbbf392337942907991cae8941d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Holo Sight Outline
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1839
+        width: 225
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b281bccf57e043aa5c1d17da8859f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWM Normal
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1671
+        width: 512
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94dd98b0ca4bb04692ec22b111f63e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AWM Outline
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1548
+        width: 512
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c0a288b6ef2e4fb66af936f8c1d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragunov SVD Normal
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1417
+        width: 512
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0dbc7a647a214fa2fac0754481c19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragunov SVD Outline
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1286
+        width: 512
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecad285a124e234e830c9f363ec9e0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AS50 Normal
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1141
+        width: 512
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6f93066e9e51247a459fbe56f951b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AS50 Outline
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 996
+        width: 512
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406321496186744dbe213cee18d6050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Normal
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 2015
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8419612e255eed4f9d28754e93a0363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Outline
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 1973
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8228748105b44091ef8d9dc0019c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grenade Normal
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 1857
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2578e26ae3ac5947833233c7ff167fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grenade Outline
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 1741
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6ffe9c57de4534bbc82d99c9b53b6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Normal
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 1647
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df43ed5fc81ef049839751025e9f6e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Normal
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1551
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be223d0e70658940831e8f7518f4b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Outline
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1455
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5000ce436c44bde4180c17c6efe8caa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M1A2 Abrams Normal
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1869
+        width: 514
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa801d00b2b0f1428b91a7beaf7cc79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M1A2 Abrams Outline
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1670
+        width: 518
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f90471d7fb6d74290c7fb2455cc14b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engineer Normal
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1915
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08028fb8660395c41b53e0261ca7295a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engineer Outline
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1764
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1b16908aaa834da5eed4d8a962c86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AH1Z Viper Normal
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1511
+        width: 512
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ebf6e6c20e81f4da2bcdce6e11d11b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AH1Z Viper Outline
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1347
+        width: 515
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144b4852abadac4185eca80fdaead14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F-35 Normal
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1176
+        width: 512
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6bac8cca024e94b8fb7048d7066378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F-35 Outline
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1002
+        width: 516
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940558aca87343e4a848c44e6d604f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat Normal
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 804
+        width: 512
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e4a8d5d8ddc14c895ccb9e1d41108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat Outline
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 602
+        width: 516
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a62acf1ded90640b621c01251ceb01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silencer Normal
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1793
+        width: 225
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86caa055817e6c5439e90c65441d17ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silencer Outline
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1745
+        width: 229
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8713e36329bdbc4ab6f8c684303a291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Barrel Normal
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1712
+        width: 225
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4679f570a698f443b5df40e0f44601d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Barrel Outline
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1675
+        width: 229
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8939d5c3b3e80a43a434390e34961bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C4 Normal
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1579
+        width: 225
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb494fb6c5fee4788581bb676e1f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C4 Outline
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1480
+        width: 229
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a992e0d133a204c8cacd4c7cc64db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo Box Normal
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 1359
+        width: 225
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc107cdf06f32141959285f0ff42849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo Box Outline
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1235
+        width: 227
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c693ca77131597c4086c0dc5fbc8c3e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

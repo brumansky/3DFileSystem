@@ -55,26 +55,62 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\FaceCam.cs" />
-    <Compile Include="Assets\Manager.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Experimental\Trigger Popup\Scripts\TriggerUI.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_BrightnessAdjustment.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_ButtonSound.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_DissolveEdge.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_Exit.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_LaunchURL.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_ManageBlur.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_MenuCamControl.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_PAK.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_PanelAnim.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_PressAnyKey.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_PUBG.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_PUBG_Button.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_Quality.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_RotateObject.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_TiltWindow.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_UIAnimManager.cs" />
+    <Compile Include="Assets\lomenui\Lomenu UI\Scripts\LUI_Volume.cs" />
+    <Compile Include="Assets\QuickOutline\Scripts\Outline.cs" />
+    <Compile Include="Assets\Scripts\Colors.cs" />
+    <Compile Include="Assets\Scripts\Contents.cs" />
+    <Compile Include="Assets\Scripts\DataNode.cs" />
+    <Compile Include="Assets\Scripts\FaceCam.cs" />
+    <Compile Include="Assets\Scripts\Manager.cs" />
+    <Compile Include="Assets\Scripts\OnMouseOverHighlight.cs" />
+    <None Include="Assets\Minimalist Free v2.4.2\Shaders\Minimalist Sky.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\QuickOutline\Resources\Shaders\OutlineFill.shader" />
+    <None Include="Assets\lomenui\Lomenu UI\3rd Party Assets\Dissolve Edge by Moonflower Carnivore\Shaders\Transparent_Unlit_DissolveEdge.shader" />
+    <None Include="Assets\QuickOutline\Readme.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Minimalist Free v2.4.2\Documentation\Readme.txt" />
+    <None Include="Assets\Minimalist Free v2.4.2\Shaders\LightweightRenderPipeline\Minimalist Standard LWRP.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\lomenui\Lomenu UI\3rd Party Assets\Dissolve Edge by Moonflower Carnivore\readme_DissolveEdge.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Minimalist Free v2.4.2\Shaders\LightweightRenderPipeline\Minimalist Standard LocalSpace LWRP.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\lomenui\Lomenu UI\Shaders\UI Blur.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\QuickOutline\Resources\Shaders\OutlineMask.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Minimalist Free v2.4.2\Shaders\BuiltInRenderPipeline\Minimalist Standard.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
+    <None Include="Assets\Minimalist Free v2.4.2\Shaders\BuiltInRenderPipeline\Minimalist Standard LocalSpace.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\lomenui\Lomenu UI\Read Me.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/bumansky/3D File System Project COMP585/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
